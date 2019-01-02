@@ -1,0 +1,7 @@
+{
+  "name": "shoe-repair-concierge-app",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
